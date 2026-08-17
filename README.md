@@ -8,7 +8,7 @@ This system was developed as a three-person university team project.
 
 ### Team and roles
 
-- **Wais Alizada — Lead Developer / primary implementer**
+- **Wais Alizada — Team member**
 - **Ali Shah Safdari — Team member**
 - **Mhammad Mahdi Nazari — Team member**
 
